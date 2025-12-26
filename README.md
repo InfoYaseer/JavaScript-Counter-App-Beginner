@@ -1,3 +1,3 @@
 ## 📸 Demo
-- Live Site: https://infoyaseer.github.io/JavaScript-Counter-App-Beginner/
+- Live Site: https://yaseerm.me/javascript-projects/js-counter%20web%20app/
 - Source Code: This repository
